@@ -1,5 +1,5 @@
-export const dashboard = <i className="fa-solid fa-house"></i>
-// export const dashboard = <i className="fa-solid fa-chart-line"></i>
+// export const dashboard = <i className="fa-solid fa-house"></i>
+export const dashboard = <i className="fa-solid fa-chart-line"></i>
 export const transactions = <i className="fa-solid fa-credit-card"></i>
 export const categories = <i className="fa-solid fa-tags"></i>
 export const accounts = <i className="fa-solid fa-wallet"></i>
@@ -28,4 +28,3 @@ export const food = <i className="fa-solid fa-bowl-food"></i>
 export const medical = <i className="fa-solid fa-briefcase-medical"></i>
 export const tv = <i className="fa-solid fa-tv"></i>
 export const circle = <i className="fa-solid fa-circle-dot"></i>
- 
